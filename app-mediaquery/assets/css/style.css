@@ -43,8 +43,12 @@
   .matn{
     font-size: 44px;
   }
-  /* .bg-red{
+  .bg-red{
     height: 100%;
    
-  } */
+  }
+  .bg-green{
+    height: 100%;
+   
+  }
 }
